@@ -4,8 +4,8 @@
    Install [docker](https://www.docker.com/get-started)
 ## Install
 
-1.- `git clone https://github.com/zxcvtm/aim.git`
-2.- `docker build -t aim-base:1.0 .`
+1. `git clone https://github.com/zxcvtm/aim.git`
+2. `docker build -t aim-base:1.0 .`
 
 ## Run
 
