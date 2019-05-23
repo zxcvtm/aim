@@ -82,4 +82,6 @@ COPY start-notebook.sh /usr/local/bin/
 COPY jupyter_notebook_config.py /home/$NB_USER/.jupyter/
 
 USER root
+RUN /bin/bash -c 'chmod +x /usr/local/bin/start-notebook.sh'                                                
+RUN /bin/bash -c 'chmod +x /usr/local/bin/start.sh'                                                
 RUN chown -R 1000:1000 /home/$NB_USER/.jupyter
