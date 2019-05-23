@@ -1,6 +1,6 @@
 # AIM (autonomous intersection management)
 
-## Requiremets
+## Requirements
    Install [docker](https://www.docker.com/get-started)
 ## Install
 
