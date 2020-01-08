@@ -1,4 +1,4 @@
-# AIM (autonomous intersection management)
+# Docker ready to run Jupyper Notebook
 
 ## Requirements
    Install [docker](https://www.docker.com/get-started)
